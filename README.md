@@ -1,0 +1,2 @@
+# SIWB
+Czyszczenie danych
